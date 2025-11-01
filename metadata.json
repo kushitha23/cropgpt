@@ -1,0 +1,8 @@
+{
+  "name": "CropGPT",
+  "description": "An AI-powered agricultural assistant providing insights on weather, market prices, crop health, and more, featuring a crop scanner and an intelligent chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
